@@ -14,5 +14,1287 @@
   "title": "Test",
   "date": "6 August 2026",
   "area": "Test"
+ },
+ {
+  "id": "1786009634164-0-v7cpq",
+  "url": "http://youtu.be/fuS5eeCebUI",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "If we look at Europe's performance year to date, it's now on a par to the S&P, so both indices are up somewhere between 7 and 8% year to date. So Europe is starting to stage something of a comeback from the conflict lows. What's driving this and are we beginning to see inflows into Europe again?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The relative performance is driven by two factors: similar exposure to the US, and a diversification trade. Europe has a 15% index weight in sectors heavily exposed to the AI capex boom, such as semiconductors, tech hardware, capital goods, and metals and mining (specifically copper). These specific sectors have performed on par with the US AI complex. Secondly, investors are seeking diversification as the Magnificent 7 trade becomes choppy and volatility increases in the AI sector."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "With Europe having really kept pace with the S&P year to date, the question that really is going to be asked is the sustainability of that relative performance and when we think about a backdrop here in Europe of pretty low economic growth, the market continues to be worried about rate hikes given recent inflationary dynamics, and as you've articulated there, tech has played a very significant role here in Europe as well in terms of driving markets higher, so how sustainable do we see this as being?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Sustainability depends on the pace of AI growth; if it accelerates aggressively, Europe will struggle to outperform due to its lower relative exposure. However, concerns about low European economic growth are misplaced because only 45% of European corporate revenues are domestic, and only a small fraction of that is in consumer-oriented sectors vulnerable to ECB rate hikes. The remaining revenue is globally diversified, contributing to a healthy consensus earnings growth forecast of over 16% for Europe this year. Furthermore, inflation driven by oil prices between $70 and $90 benefits 60% of Europe's earnings pie, which includes real assets, banks, and AI exposure."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Final question from my side, you have obviously recently refreshed your sector model, we have talked about the broadening in our conversation today, what are you advocating to your clients out there in terms of relative sector preferences?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The data-driven model currently favors semiconductors, metals and mining (led by copper), banks, capital goods, and utilities. Banks are a particularly strong diversification play, trading at a 10x PE multiple with high distributions (buybacks and dividends), low-teens earnings growth upgrades, and early adoption of AI generating measurable ROI. Utilities are also an overweight position, benefiting from AI data center demand and the ongoing transition to renewable energy, yet remain under-owned compared to their US counterparts."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:47:14.164Z",
+  "title": "Comeback for Europe's Bull Market?",
+  "date": "29 June 2026",
+  "area": "Equity Research"
+ },
+ {
+  "id": "1786009686865-0-jo4d2",
+  "url": "https://www.youtube.com/watch?v=0dAoHKgVruY",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "Can you give us a big picture view of how you think about AI, and is it truly as transformational as everybody said it was going to be just a few years ago?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "There is a stark divide between consumer AI, which has seen robust adoption with over a billion daily active users, and enterprise AI, which has been highly disappointing. Consumers are generally not paying for AI, meaning the massive infrastructure investments currently underway require wholesale enterprise adoption to generate a return on invested capital. To date, that enterprise adoption has not materialized because integrating large language models into complex corporate workflows remains a massive hurdle."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What have we spent to date over the last few years?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Total AI infrastructure spending is easily into the multiple trillions of dollars. By the end of 2026, that capital expenditure will likely surpass $3 trillion. While accounting methods for this spending can be debated, the sheer scale of the investment requires a massive economic payoff that is not currently visible."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So many of our clients are talking about the capital expenditures and they say what's the big deal? So a lot of money is being spent, what's a hundred billion?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Every successful technology transition, like the internet with Google or Amazon, has justified its cost by disrupting a significant, existing profit pool. It remains unclear how these AI companies will earn a return on their massive spending because enterprise adoption has stalled. Organizations are finding it difficult to apply AI to unstructured datasets that differ across departments, which leads to structural hallucination issues rather than practical business solutions."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Can you describe a little bit about what the real adoption is and why are CEOs so optimistic when they yet haven't seen the benefits?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Executives are overly optimistic because they extrapolate their successful personal use of consumer AI into an assumption that the technology will easily integrate into their businesses. In reality, consulting studies show a huge disconnect between how executives perceive AI integration and the struggles line workers face trying to leverage it. Enterprise AI struggles to synthesize unstructured data across different organizational silos, leading to systemic errors that block real-world adoption on the factory floor or in the office."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How will that work if you don't have the entry-level jobs in all kinds of companies, including in pharma companies and biotech companies, how do you get the experience to have the judgment?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "There is no clear resolution yet to how future knowledge workers will gain judgment if entry-level analytical roles are automated. However, AI models are actually unlikely to replace workers en masse; they will instead be leveraged to make existing employees marginally more efficient. If the technology fails to actively replace corporate headcount, the massive infrastructure investments driving it simply will not yield the economic returns required to justify the capex."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "One of the questions our clients are asking us is, is there a bubble? How do you think about that in the public markets and then in the private markets?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The public equity markets do not currently have a valuation bubble, but they do have an earnings bubble among companies generating massive near-term profits. Chip company earnings are entirely dependent on upstream demand, which currently appears economically unsustainable, meaning those elevated profits are highly vulnerable to a capex pullback. Conversely, the private markets are exhibiting a true valuation bubble because startups are commanding massive valuations before their underlying business models have been proven out."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "One of the issues we think about when we think is there a bubble in the AI space is this incredible circular financing, which in the olden days used to be called vendor financing. And when you heard vendor financing, usually alarm bells would go off. So how should our clients think about that?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The space is currently seeing tech companies fund their own customers to encourage ecosystem lock-in, alongside hardware suppliers funding clients purely to maintain their own sales velocity. This circular financing is only viable if the underlying business models eventually generate enough organic cash flow for those customers to sustain their spending independently. Until that tipping point is reached, circular investing raises serious questions about the sustainability of these business models and poses significant systemic risk."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Let's say one of the IPOs is not successful and that will have repercussions. What do you think it'll be like? What will that mean for the public companies and who will be dragged down?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The current market actually benefits from a high level of healthy skepticism and public debate regarding valuations and spending sustainability. This widespread discourse is vastly different from the blind optimism that characterized the 1998-2000 dot-com era. This existing caution will ultimately help insulate the broader public markets from severe fallout if some of these highly valued private companies fail to live up to expectations when they go public."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "When you think of winners and losers in the AI space, US versus China, do you have an opinion on that or is it actually an irrelevant question?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The geopolitical outcome depends entirely on where the long-term value accrues within the AI technology stack. If the value ultimately accrues to the model layer, China has a strong chance to dominate by scaling as the low-cost producer. If the value remains heavily concentrated at the chip layer, the US will retain its dominance because it controls the majority of the critical semiconductor applications required to run the models."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:48:06.866Z",
+  "title": "AI: What Investors Should Know",
+  "date": "06 July 2026",
+  "area": "Asset Management"
+ },
+ {
+  "id": "1786009731102-0-2rs49",
+  "url": "https://youtu.be/ZlPe9s41A-Y?si=mPWC3Fc6NdxOc9__",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "Okay, what's going on with the dollar here? Is this a strong dollar year?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Brian points to three factors driving dollar strength into the third quarter. First is the geopolitical conflict between the US and Iran. Second is US exceptionalism driven by the AI boom, with corporate earnings remaining exceptionally strong for major US-denominated companies. Third is the recent hawkish shift in the Fed's rate path, which focuses on price stability while largely discounting downside risks to growth given a very strong labor market."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Let's let's talk about the Fed for a second here because we just got the Fed meeting minutes this week which was interesting. Is the Fed as hawkish as markets thought a month ago?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The FOMC has shifted materially more hawkish in its dot plot, moving from zero voters expecting a hike in March to nine voters expecting at least one hike in June. While the Chairman's recent comments at a conference were slightly less hawkish than his initial press conference, the market has seen a decent reversion with only six or seven basis points priced for July. The options desk believes the distribution of outcomes where the Fed shifts to a significantly more hawkish policy remains broadly underpriced."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Obviously the dollar trades a little bit with rates. So the Fed raises rates, the dollar gets stronger. People want to own dollars. They get a higher return. If the Fed doesn't raise rates, does the dollar just knock as strong?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The dollar can still appreciate significantly even if the Fed's reaction function is to remain on hold, provided there is a dovish shift or a downgraded growth outlook for the rest of the world. Central banks like the ECB and BOE have already seen a pretty dovish shift, stripping out the high rate hike expectations that existed during peak geopolitical fears. Consequently, real rate differentials still point toward the dollar having appreciation value going into year-end regardless of further Fed hikes."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "All right. So we've talked about inflation, we've talked about the Fed. Let's talk about that other one you had which was US exceptionalism and that's tied into a debasement trade potentially that always has China in it a little bit as well. What are you thinking? Is there any sort of cracks in the uh US exceptionalism or as you said because of the Iran situation it's actually gone."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The market has worried about dollar debasement due to upcoming US tariff policy and lingering concerns over the petrodollar system. If Iran began charging for transport through the Strait of Hormuz in Chinese yuan rather than dollars, it could theoretically challenge the dollar's supremacy in global energy markets. However, despite these geopolitical expectations, reserve diversification has not increased substantially from the major investor bases."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "If that's true, does that change the, you know, the global order of things in terms of where the demand for currency is?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "There has been absolutely no evidence of the global order shifting in terms of currency demand thus far. While a slow diversification of global reserves remains the path of least resistance over time, an actual supplanting of the US dollar in reserve currency supremacy is not on the radar in the near term. The current dominance of dollar-denominated energy transport remains fully intact despite regional geopolitical threats."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Okay, Brian, one more market I want to talk about is Japan. The central bank's trying to raise rates. that should be supportive of the yen. What's your view?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Japanese rates are at their highest levels in decades, but they are still not high enough relative to domestic inflation to create appreciation pressure on the currency. The recent moves in Japanese yields have been concentrated in the back end of the curve, driven by inflation expectations rather than actual hawkish monetary policy. Unless the Japanese government pursues more hawkish fiscal and monetary policies, or the Japanese pension system shifts from a dollar focus to a domestic focus, the yen will continue facing weakening pressure with only episodic intervention."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "All right let's put a bow on it. what's the trade?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "While the broader market is currently set up for summer carry trades in emerging markets like Brazil and Egypt, the primary structural trade is to go long the US dollar against G10 funders. The core thesis rests on capturing a reliable three to four percent annualized carry by staying long dollars against lower-yielding developed market currencies, while simultaneously positioning for two distinct right-tail risks that could drive an outsized dollar move higher over the next three to six months. The first catalyst would be a re-escalation of the US-Iran conflict in the Middle East, which would spike energy prices and drive a safe-haven bid. The second catalyst is a potential hawkish shift from the Fed if the market is forced to price in an entire hiking cycle going into the turn of the year. To express this thesis, the speaker recommends a specific directional trade of long USD versus CHF and a structural hedge of long USD versus CNH. Because implied volatilities are currently sitting in the sub-10th percentile of their five-year ranges across almost every developed market currency pair, the structure heavily favors using options rather than spot positioning. The exact expression for the primary trade is buying year-end USD/CHF call spreads, which currently offer a highly asymmetric payout profile of roughly seven to eight times the premium. For the China hedge, the horizon extends slightly further out via one-year USD/CNH calls targeting strikes anywhere above the 7.00 level. The primary risk that would invalidate this positioning is a rapid decompression of volatility that prices out the options advantage, or a dovish pivot from the Fed combined with synchronized global growth that undermines the real rate differentials currently supporting the dollar."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "I want to just drill one second on the carry trade because a carry trade is usually a trade when you think the dollar is going to be pretty flat, you know, because if it moves too much, you could get wiped out of that interest rate differential pretty quickly. So, are you sort of saying that? Yeah, I just think the dollar's kind of settling in here even though there's a lot of volatility in the world."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The desk looks closely at both valuations and capital flows to assess the risk of spot movements wiping out the carry. When stripping out inflation, the real interest rate differentials remain extremely supportive for the dollar against its peers. Based on these underlying real rates, the dollar should theoretically be 2% to 4% higher depending on the specific currency pair, providing a strong valuation buffer rather than relying purely on a flat spot market."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:48:51.102Z",
+  "title": "Why the US Dollar Could Continue to Strengthen",
+  "date": "10 July 2026",
+  "area": "Sales & Trading"
+ },
+ {
+  "id": "1786009743531-0-gpsys",
+  "url": "https://www.youtube.com/watch?v=MlwvbWyJJd0",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "What do you make of it all? What are you looking at as we walk into earnings season?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The immediate focus is on the exceptionally high bar being set for US equities heading into their prints. Bottom-up analysts are expecting 22% year-over-year earnings growth, which requires massive fundamental outperformance just to meet expectations. Furthermore, the options market is implying a 5.5% move for the average S&P stock, sitting 60 to 70 basis points above the long-run average. This creates a dual hurdle where equities must deliver flawless fundamental execution while also generating enough price performance to beat the elevated volatility premiums."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "When you think about the investors that you talk to, are they feeling nervous about that? Or do they feel fine?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The combination of momentum factor unwinds and high single-stock realized volatility has certainly made some investors nervous. However, prime brokerage data shows that roughly 75% of global equities bought off the April lows were sold prior to this earnings season, resulting in relatively clean positioning. Because correlation remains historically low and the market has already de-risked, portfolio managers actually have dry powder and structural room to add exposure if these companies manage to perform."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "That clean positioning from our prime brokerage unit, that's talking about hedge fund positioning largely, right?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The data tracking the aggressive sell-off of global equities primarily reflects the positioning of the firm's hedge fund clients. This clean positioning indicator confirms that the fast-money community has broadly de-risked their portfolios heading into the earnings prints. As a result, hedge funds currently hold lighter equity exposure, leaving them well-positioned to re-engage with the market without being caught off guard by downside surprises."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "We've started to see the AI infrastructure guys and the hyperscalers dip into the credit markets now to fund some of these projects. Is that having an impact on markets at all? What do you see?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Hyperscalers need to raise roughly $5.5 to $6 trillion between 2025 and 2030, shifting these historically asset-light, cash-flow-heavy companies into massive debt issuers. They recently tapped the credit markets at tight concessions, but that paper has started to widen due to the sheer size of the issuance and sector concentration limits. Fixed income portfolio managers can only hold a certain percentage of technology debt, causing Goldman’s hyperscaler bond basket to widen by 22 basis points last week. This dynamic has created a massive disparity between hyperscaler credit default swap spreads, which track credit protection, and put skew, which tracks equity protection."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What is the vol market telling you about the health of the markets?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Realized volatility on US indices is artificially suppressed and fails to tell the full story due to a historically muted correlation across global indices. Implied volatility on the KOSPI is currently higher than it was during the global financial crisis because the index is heavily weighted toward a few single stocks trading at 100-volatility levels. Additionally, the massive proliferation of leveraged and inverse products—which account for one in three new ETF issuances this year—is structurally increasing short gamma in the market, exacerbating single-stock volatility while keeping index-level risk optically low."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "When you get into a levered ETF, I guess, when the underlying goes down, they're forced to sell even more. Is that what happens?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Leveraged ETFs are structurally forced to sell into a falling underlying market and buy into a rising one, amplifying directional momentum. The systemic risk stems less from the active intraday traders using these products and entirely from the sheer scale of the assets under management relative to the underlying liquidity of the tracked sector. A small fund rebalance creates virtually no volume footprint, but a heavily capitalized vehicle rebalancing at the end of the day can severely distort market pricing."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What's the trade?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The first recommended trade is to overlay single-stock collars against long equity positions to take advantage of an inverted skew dynamic. Because aggressive retail leverage has created a massive bid for upside participation, call options currently trade at a higher implied volatility than put options in roughly 10% of S&P names and 15% of Nasdaq names. Investors can purchase a 10% out-of-the-money put to act as downside insurance on stocks trading at all-time highs. This protection is then entirely funded by selling a 15% to 20% out-of-the-money call, allowing investors to secure zero-cost hedges with strikes set significantly higher than current market levels."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What's the second trade?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The second trade is a levered digital put option, also known as a one-touch binary put, on the S&P 500 to capitalize on the historically cheap cost of index-level downside protection. Because single-stock volatility is extremely high while index realized volatility is severely depressed, structural pricing for index hedges offers a highly asymmetric entry point. The strategy pays a set multiplier of leverage if the S&P 500 breaches a specific downside barrier at any point between execution and the end of August. Specifically, investors can pay one dollar to make 5X leverage if the index drops 7% at any time, or they can pay one dollar to make 10X leverage if the index experiences a 10% drawdown before August expiry."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What are you watching most carefully now as we go into the rest of July?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Inflation data has firmly returned to the forefront of market focus ahead of the upcoming FOMC meeting and the late-month PCE print. Employment data appears to have found solid footing, removing a significant layer of uncertainty from the labor side of the mandate. The primary macro question going forward is exactly how the US economy will digest the trajectory of inflation under the new Federal Reserve leadership."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:49:03.531Z",
+  "title": "How Earnings, Volatility, and AI Capex Are Affecting US Markets",
+  "date": "17 July 2026",
+  "area": "Sales & Trading"
+ },
+ {
+  "id": "1786009757248-0-esdo3",
+  "url": "https://youtu.be/gZweef8LX7M",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "What are you most proud of as a leader in running Citadel?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Griffin highlights two major achievements: bringing employees back to the office early during the pandemic and Citadel’s role in accelerating Covid drug trials and vaccines. He argues that remote work has severely damaged human capital development, particularly for younger employees, even more so than AI, as humans rely on in-person apprenticeship and mentorship. Additionally, he expresses pride in Citadel’s quick action, in partnership with a former colleague, to secure FDA approval for experimental drug trials within 72 hours, and his involvement in shaping the incentive structure of Operation Warp Speed, which funded vaccine manufacturing before efficacy was proven."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "As a capital allocator, how do you think about this moment in time? What's the market getting right? What's it mispricing?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The relative stability of the market and the S&P hitting all-time highs despite geopolitical conflicts is largely due to the US being shielded from the energy crisis and two unexpected global economic factors. First, China's demand for oil has dropped much more dramatically than anticipated, showing surprising elasticity. Second, oil flow from the Middle East has continued episodically, preventing crude prices from reaching the estimated $200 a barrel that a closed strait would typically cause."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "You had quite a journey in your thinking around AI. The quote I think recently was on a Friday you were shocked and depressed coming home thinking about the implications of what AI will have on society. Maybe just share more about that journey and kind of where's your head today?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "While machine learning has driven significant productivity gains for years, the recent breakthrough of agentic AI systems solving high-level problems, such as reproducing complex academic finance papers in hours rather than weeks, is what caused concern. This advancement suggests that AI will disrupt not just basic tasks, but highly skilled, Master's and PhD-level work, requiring a reevaluation of human capital and rapid skills retraining for displaced workers. However, this also signals a golden age for entrepreneurship, as these tools lower barriers to entry, allowing small startups to compete with large incumbents by doing the work of teams of 30 or 40 people with only a few employees."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How do you see just the long/short equity business where a number of people allocate capital to changing? What's a PM who does that for Citadel in the future going to look like? Is it the same set of skills? Are they going to evolve? Are they going to adapt?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The core skills for a portfolio manager will remain similar, but the market will increasingly reward those with a long-term vision of which companies are creating transformative products that alter society. The traditional focus on whether a company will beat quarterly earnings has become commoditized due to the proliferation of alternative data and AI analysis. Future outperformance will rely on the ability to look beyond the immediate quarter and identify long-term, structural winners."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Just tell us about how do you think about source and compute within the market maker? How important is that for the future? And if you want to take it into distinctions between inference costs versus training costs. How do you sort of see that play out as running one of the most successful, frankly, technology companies in the industry?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Compute has become a critical and expensive input for market-making, with large firms spending hundreds of millions of dollars to access the necessary processing power. The price of compute has inflated significantly due to massive, widespread demand across society for AI tooling. Consequently, only businesses with high margins will be able to bear these rising costs, squeezing out lower-margin competitors who cannot afford the compute required to remain competitive."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Can you tell us how do you think about where we are with the China relationship and chip security and investing in the region from your seat?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Griffin views China as a primary innovator and a significant threat to the US’s 50-year dominance in new product development, noting that China leads in the vast majority of critical technologies and produces a higher volume of STEM graduates. He argues that the US must prioritize education over tariffs to remain competitive. Regarding Taiwan, a military escalation would be a lose-lose scenario, potentially triggering an immediate US depression and a severe shock to China’s export-reliant economy due to the global dependence on TSMC’s chips."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How do you navigate this prisoner's dilemma as an investor?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Investors must assess the geopolitical landscape based on their geographic location, as the economic consequences of a conflict, such as a blockade of Taiwan, will vary drastically depending on a country's alliances. The unified global opposition seen in previous conflicts is unlikely to occur; Europe’s alignment with the US is increasingly uncertain, and regions like the Middle East will likely attempt to remain neutral due to their economic reliance on China. Therefore, exposure to China must be evaluated through the lens of how an investor’s home country will position itself in the ensuing geopolitical fallout."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How do you think about the outlook for energy production amid the rise of AI?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The massive energy requirements of AI necessitate building data centers within the US to avoid relying on foreign infrastructure, requiring a shift away from \"not in my backyard\" attitudes and a mandate that data centers build their own corresponding power generation. To meet this demand cleanly, the US must re-embrace nuclear energy, including small modular reactors, as it offers a low mortality rate and no carbon footprint, unlike solar and wind, which have hidden environmental costs in their production and disposal. In the interim, natural gas remains a crucial, low-cost asset that has already helped reduce US carbon emissions."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How do you think about hedging portfolios for complicated risks?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Risk management requires rigorous stress testing to understand the potential magnitude and location of losses during tail events, as it is impossible to hedge against every scenario. The primary focus must be on determining the worst-case scenario and ensuring that the resulting extreme loss remains a tolerable and survivable outcome for the portfolio."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:49:17.249Z",
+  "title": "Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers",
+  "date": "09 July 2026",
+  "area": "Asset Management"
+ },
+ {
+  "id": "1786009830849-0-jemd7",
+  "url": "http://www.youtube.com/watch?v=bGz3AgFPCs8",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "So, you joined Advent in 1997 at a time when private equity was still relatively small. What did private equity look like in Europe at that time? And how different was the industry from what we see today?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The industry was far smaller, characterized by an early transition from venture capital to a broader acceptance of private equity ownership models. Deals were significantly smaller; fees paid on a single transaction today equal the total size of deals executed back then. The market was also less sophisticated in its operations and capital structures."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, now Advent manages about $100 billion and has equal presence both in the US and in Europe, which is really unique among your peers. So, how is the firm structured to serve both regions effectively?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Advent established a European presence in 1989, much earlier than most US-based peers, recognizing the importance of local networks. The firm operates through multiple offices across Europe, prioritizing \"boots on the ground\" to understand local nuances, labor unions, and business cultures. This localized approach is crucial for building trust with founders and navigating complex carve-outs, differentiating Advent from competitors taking a more remote approach."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, Europe is a special place to do business. Can you talk a little bit about the structural differences that make European buyouts fundamentally different from the US market?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Europe sees more transformational deals, often driven by large conglomerates trimming their portfolios, creating complex carve-out opportunities. The fragmented nature of the market necessitates local expertise to execute these transactions effectively. Additionally, European debt markets are more relationship-driven and binary compared to the highly deep and liquid US capital markets, where pricing is often the primary variable."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, has the current Middle East conflict changed the economics in your view of private equity deals, particularly in Europe where growth is already weaker?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The direct portfolio impact has not been significant across Advent's investments. However, the firm is monitoring second and third-order effects, primarily driven by energy price volatility. Higher input costs have the potential to feed through to consumer impacts, making the ultimate economic effect dependent on how the situation evolves."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, as we talked about earlier, Europe often looks structurally different than the United States in terms of fragmentation and regulation. Does that complexity make investing harder? Or does it create more opportunities for private equity investors, in particular Advent?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The complexity across 44 nations with differing political, regulatory, and linguistic landscapes creates significant opportunities for operational value creation. This fragmentation generates inefficiencies and forces high-quality companies to divest assets, presenting attractive carve-out targets. A localized presence is essential to overcome the information asymmetry inherent in such a complex market, providing a distinct advantage over remote investors."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, one of the defining challenges in the private equity industry today is a slowdown in exits given the macro, whether through IPOs or strategic sales. So, how is Advent thinking about monetizing your portfolio investments in this environment?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The pace of realizations has dropped significantly, with investors now seeing 8-12% of starting NAV returned annually, down from historical expectations of 20%, whereas the model requires at least 15% to function optimally. To address this, Advent focuses on the exit strategy from the initial purchase, specifically identifying potential buyers and the necessary operational improvements to make the asset attractive to them. The firm aims to build strategic businesses appealing to multiple consolidators, actively avoiding investments reliant on a single exit path, such as an IPO."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "I'm curious, in your investment committees, has any of the analysis changed? Is there a new case that goes into investment committee memos now, given the macro environment with software and everything going on?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Investment committees are placing even greater emphasis on the \"exitability\" of an asset and the precise timing of realization, recognizing that LP focus is heavily weighted toward IRR and the speed of capital return. Transformational deals are resource-intensive and take time, requiring a balance against the need for liquidity. Additionally, the implications of AI on the target business have become a core area of focus during committee reviews."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How are you thinking about AI, both as an investment theme and as a tool to improve your portfolio companies?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Advent established internal data science leadership early and developed proprietary large language models trained on decades of firm data to drive internal efficiency. Across the portfolio, dedicated teams assist companies with comprehensive AI transformation, rather than just bolting on superficial projects. This requires organizing underlying data structures and addressing cultural resistance before implementing transformative AI solutions."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "You talked about how Advent is using AI. How has it impacted your investment committee's processes?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Advent developed an \"IC robot\" trained on 13 years of investment committee memos, encompassing both completed deals and rejected opportunities. When a new deal is presented, the AI analyzes the assumptions—such as margin projections—against historical data and flags deviations from past outcomes in similar companies. While it does not hold a vote, it serves as a powerful prompting tool to drive targeted discussion on specific risk factors."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "I'm curious, with your junior professionals as you on board junior professionals, how important is their knowledge of, use of AI in hiring them? And how do you teach people the business if they're using your large language model to do their analysis?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The firm increasingly targets new hires who are \"AI native,\" aiming to integrate data analytics directly into the deal team rather than maintaining a separate data science group. While juniors drive much of the innovation in using these tools, they are still required to understand the fundamental mechanics of financial modeling before relying on AI agents to build them. This ensures they grasp the underlying business logic, maintaining the apprenticeship model of private equity."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, tell us about the strategy. And where do you look for unique opportunities?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Advent remains strictly focused on pure-play private equity, deliberately avoiding the diversification into other asset classes seen across many large peers. This clarity of purpose allows all resources to be directed toward optimizing their core buyout strategy. Management believes this pure approach is increasingly attractive to LPs who view highly diversified firms as solving for different objectives, positioning Advent as the premier destination for professionals focused solely on dealmaking."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What did you learn about sector verticals from that deal? And how did it change the way you think about operational complexity?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Deep specialization within sub-verticals, such as payments, allows the firm to operate almost as a strategic acquirer with a clear understanding of optimal performance metrics. After executing multiple similar operational improvements—like churn management or pricing optimization—within a specific niche, the firm develops repeatable playbooks and can recycle specialized talent across portfolio companies. This continuous improvement model, driven by deep sector knowledge, is then scaled globally to drive operational value creation."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, you've reaffirmed your involvement in the defense sector in recent years. Tell us about how you're thinking about that sector."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Advent entered the defense sector early, attracted by the defensive nature of long-term contracted cash flows and strong underlying technology, often found within underinvested conglomerates. Initial strategies focused on acquiring underperforming public companies, like Cobham, and separating out strong individual business units for strategic sale. The firm has since shifted focus toward supporting next-generation defense technology, recognizing the innovation occurring within that space."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, what is driving the focus on the Asia Pacific region? And what opportunities are present that didn't exist a decade ago that have made you focus today?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The region is projected to account for 50% of global GDP growth, and the firm believes a presence is necessary to capture that expansion. There is a growing maturity in capital markets and an increasing acceptance of control buyouts, which aligns with Advent's strategy. Opportunities vary by market: India offers growth in financial penetration, China presents domestic champions, Japan is ripe for carve-outs due to governance changes, and Australia provides a mature market for patient capital."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, I've heard that the culture at Advent is similar to Goldman Sachs's culture. And what values do you think that our two firms share?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The core shared values are excellence, integrity, collaboration, and a commitment to continuous improvement. Strong, high-performing cultures are driven by leadership, with financial performance acting as a lagging indicator of that underlying culture."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "And as you scale the business and as you've added investment professionals over the years, how do you maintain that culture?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The firm invests heavily in bringing teams together to openly discuss both successful and unsuccessful deals. Having leadership openly analyze failures is crucial for maintaining transparency and continuous learning. Additionally, there is a strong emphasis on senior team members actively mentoring junior professionals as they develop."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, when you compare today's environment, higher rates, energy shocks, geopolitical risks, how challenging does this moment feel to you relative to past cycles?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "While challenging, the current environment is viewed favorably because complexity and non-benign conditions often present the best investment opportunities. Market dislocation forces large companies to reassess their portfolios, generating attractive carve-out opportunities. The firm relies on its deep sector focus to identify and execute on these complex transactions during volatile periods."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, what advice do you give them as they think about entering the industry today, especially given how much it's changed?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The primary advice is to remain open-minded given the breadth of opportunities within finance. As AI capabilities expand, maintaining focus on human elements and relationship building will become increasingly critical differentiators."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, what inspired that initiative? And what impact has it had so far?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Driven by gratitude for their own elite education, the initiative aims to provide access to high-quality schooling for students in a heavily deprived area of the UK. The foundation is modeling its approach on successful prior case studies where targeted educational support dramatically increased the number of disadvantaged students attending elite universities over a 14-year period."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "First of all, how did you get into that? But also, how do those activities help you maintain balance? And do they shape how you think in your professional life?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Engaging in sports and outdoor activities provides essential mental clarity and perspective away from professional pressures. A background in competitive rowing instilled an understanding of how rigorous training and hard work directly correlate with performance and mental resilience."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So, what do you think your greatest strength as an investor is?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Humility is critical, as it fosters a healthy paranoia and prevents the assumption that one is the smartest person in the room."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What's the best piece of advice you've ever received?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "If you train harder than everybody else, you tend to win."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Which investor do you admire most?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Peter Brooke, the founder of Advent."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "And finally, what are you most excited about in the world right now?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "AI, both excited and terrified in equal measure."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:50:30.849Z",
+  "title": "'Complexity is Our Friend’: James Brocklebank on Advent's Private Equity Strategy",
+  "date": "26 May 2026",
+  "area": "Private Equity"
+ },
+ {
+  "id": "1786009853048-0-m5d16",
+  "url": "http://www.youtube.com/watch?v=BcEBLXYTlpc",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "What about the performance of the US economy has gone just as you expected, and maybe more interestingly, what has surprised you the most?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The labor market delivered a major upside surprise, abruptly accelerating over the last four months despite the outbreak of war and spiking oil prices. Conversely, inflation proved stickier than expected, largely due to the conflict and a mismeasured surge in AI demand within price statistics. These upside pressures offset the anticipated relief from rolling off tariff effects, leaving inflation grinding sideways near three percent rather than returning to two percent."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The June CPI came in weaker than expected. What do you make of that? How much does that actually suggest to you an inflection point in inflation as you've been expecting, or is this just a mechanical shift that's going to reverse because gasoline prices, as we all know, went down and now they're headed up again?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The June print was likely an outlier, but it marks the beginning of a sequentially softer run of inflation data. Tariff effects are now negligible on a monthly basis, and the largest inflationary impacts from the Iran conflict likely peaked in the second quarter. Furthermore, the exaggerated measurements of AI demand in the PCE index should sequentially soften. Stripping out the exogenous noise of tariffs, energy spikes, and mismeasurement, core inflation is already tracking much closer to the two percent target, indicating the underlying economy is not overheating."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "But let me just dig in for one moment there on the re-escalation of the war. You're not concerned about the inflation risks?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The conflict remains the single largest upside risk to the inflation trajectory. However, as long as oil prices stabilize at current levels rather than returning to their late April and May peaks, the sequential monthly inflation data should continue to cool. Net of the transient effects from tariffs, the war, and AI mismeasurement, core CPI and PCE are fundamentally anchored near two percent."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "And despite this softer inflation data, and at least our expectation that inflation is going to continue to soften for the second half of the year, he has a pretty cautious tone right now, at least in terms of his congressional testimony last week. And then you've seen other members of the Fed coming out, what some would characterize as somewhat hawkish relative to expectations. So what should investors make of all of this?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The FOMC has lost patience with looking through one-time supply shocks, fearing that prolonged elevated prices could unmoor inflation expectations. The committee is essentially done litigating the specific drivers of inflation, meaning if prices stay high, they are prepared to respond mechanically regardless of the source. Mericle expects core PCE to hover around twenty basis points monthly, which will be just soft enough to keep the Fed on hold, though the central bank is operating with virtually zero margin for error."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Right. So just to clarify, we expect the Fed, at least our mainline expectation is for the Fed to remain on hold this year and potentially the next move being a cut in 2027."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The baseline forecast keeps the Fed on hold for the remainder of the year, operating on the thesis that current inflation is supply-driven rather than a product of macroeconomic overheating. A rate cut is not justified yet, but anticipated improvements in the data will allow the Fed to comfortably look through the noise without hiking. The debate over the appropriate policy rate in 2027, once these geopolitical and supply shocks pass and inflation normalizes, remains a separate structural discussion."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Now, the market expectations, they've swung a bit back and forth, but right now they are still expecting the next move to be a hike and a hike later this year. So does that just look mispriced to you?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Mericle views the short-end rates market as mispriced to the hawkish side, though the distribution of outcomes is more nuanced than a simple binary between a hike and no hike. The market is currently pricing in about a hike and a half, implying a toss-up probability of two or three additional rate hikes in this cycle. Goldman Sachs holds a much lower conviction on further tightening, placing the probability of any further rate hikes at closer to twenty-five percent. The firm's core macroeconomic thesis is that underlying inflation data is soft enough to keep the Fed firmly on hold, meaning front-end yields should ultimately rally as the market is forced to price out these excess hike expectations."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Let me spend one moment on the balance sheet. That was sort of a big issue potentially where Chairman Warsh had different views than his predecessors to some extent. How do you see that factoring into Fed policy in the months and years ahead?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The Federal Reserve has no appetite for abandoning the ample reserves framework, which leaves virtually no room to shrink the absolute size of the balance sheet. The ongoing internal debate centers instead on asset composition, specifically whether to buy in proportion to Treasury issuance or to hold mostly Treasury bills to match duration and insulate the Fed's operating profits from political scrutiny. Ultimately, this decision will have minimal market impact, as the Treasury will simply adjust its own issuance to offset the Fed's actions, leaving the public supply of duration completely unchanged."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The other change, though, that seems to be quite in focus that could potentially have a big impact is a change in communication of Fed policy. What are you hearing about that?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Chairman Warsh strongly opposes hard forward guidance, though some soft guidance naturally emerges whenever the committee discusses its economic outlook or neutral rate estimates. The most likely immediate policy shift would be adopting a proposal to stop publishing the median rate projections in the Summary of Economic Projections. This would prevent the FOMC from appearing to give official committee blessing to a specific rate path, though a complete abandonment of the summary is unlikely given the Fed's institutional preference for transparency."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "And that is the market concern, right? Because if markets don't have any indication or guidance of what they think the Fed might do, it's much more vulnerable to surprises, and that can create a lot of volatility."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Removing forward guidance leaves the market highly vulnerable to misinterpreting policy moves and running ahead of the Fed's intended messaging. While this lack of direction is harmless when rates are stable, a surprise hike without accompanying economic context could trigger outsized reactions across asset classes. This dynamic already surfaced during Warsh's first meeting in June, where the lack of clarity created excess volatility as the market struggled to infer the committee's reaction function."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Is the fact that we have a more resilient labor market than we expected a sign that growth is holding up better, or what do you make of it?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The recent acceleration in job growth defies historical macro patterns, where rising oil prices typically destroy jobs in discretionary sectors like restaurants. Instead, hiring has surged precisely as the war broke out and energy prices spiked. The economy is currently adding jobs well above the fifty to sixty thousand monthly breakeven rate needed to keep unemployment stable in a low-immigration environment, indicating robust underlying economic momentum."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So let me just go back to the growth view then. It seems as though we have a resilient labor market, inflation coming down. So are your expectations that growth holds up, or where do we go from here on the overall growth picture in the US?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "US GDP growth is forecast to step down to roughly two percent in the second half of the year, running just below the two and a half percent potential. Consumption growth is expected to soften as households face mediocre real income growth, an already depleted savings rate, and the exhaustion of tax refund payments. This consumer slowdown, combined with structural headwinds in housing and government spending, will drag on the broader economy, offset only partially by outsized strength in business investment."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "And the stock market has been up. So how does that factor into those views?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The ongoing equity market rally acts as a tailwind for consumer spending via the wealth effect. This dynamic contributed an estimated three to four tenths of a percentage point to GDP growth over the past year. While it is not the primary driver of aggregate consumption, it will continue to provide a modest but meaningful boost to economic activity over the coming year."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "So let's just put it all together, David. We-- again, we have relatively soft-core inflation, and we expect inflation, the inflation picture to continue to improve. This new Fed Chairman, we'll see what more comes from him, and this Middle East escalation. What are the risks you're most focused on here?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The dominant macroeconomic risk remains the conflict in the Middle East and its potential transmission through global oil markets. A sustained energy shock could reverse the current disinflationary trend, forcing a mechanical, hawkish response from the Federal Reserve. This chain reaction of higher geopolitical tension, stickier inflation, and tighter monetary policy poses the absolute greatest downside risk to the broader financial markets."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:50:53.048Z",
+  "title": "US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth",
+  "date": "21 July 2026",
+  "area": "Sales & Trading"
+ },
+ {
+  "id": "1786009863565-0-89jsd",
+  "url": "http://www.youtube.com/watch?v=GXaYmZAlbwQ",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "You know, Prime Insights and Analytics, that can mean anything. Tell us a little bit about what you do and what part of our firm you're in."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Prime Services primarily serves hedge funds and alternative asset capital allocators. These clients rely on prime brokers for consulting, financing, reporting, and trade settlement. Because trades settle through Goldman's PB accounts, the team gains real-time visibility into positioning changes. They analyze this aggregated data to distill insights on major themes within the hedge fund industry."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What are we looking at? What is going on?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The momentum trade has experienced a very sharp drawdown recently. A high beta momentum basket fell 32% from its highs, reducing its year-to-date gain from over 60% in June to just 16%. The TMT momentum long/short pair was hit even harder, dropping almost 40% from its peak, marking the sharpest drawdown in five years. This indicates significant length reduction by tech-focused hedge funds over the past two months, representing the largest supply on record for the past decade."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Is this just investors taking a little bit of froth over a group that, by definition, momentum, has done very well? Or is there a fundamental story that you're hearing from customers as well?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "While AI is considered a massive fundamental tech cycle, the trade became overly crowded. By early June, the entirety of positive alpha returns for fundamental long/short funds was driven by the AI infrastructure trade. Global semiconductor net allocation started the year at 10% but surged to a record 24% by June, before recently dialing back to 18%. This crowdedness, amplified by retail participation and levered ETFs, led to an environment where momentum factor volatility hit its highest level in 45 years outside of recessions. Consequently, managers have de-risked to control portfolio volatility."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Where are we in the leverage side and the gross investment side?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Six weeks ago, equity fundamental long/short gross exposure reached five-year highs, and net exposure hit four-year highs, indicating very full positioning. Following recent de-risking, both gross and net exposures have declined to the 60th to 65th percentile relative to the past three years. This places positioning roughly in the middle of the pack. While hedge funds have taken chips off the table to reach cleaner levels, positioning is not completely washed out."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How are hedge funds navigating the concentration in the market? Do we see them dipping into smaller cap alpha? How does that work?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Hedge fund performance has been robust, with the average fund up 9% through June, marking one of the best first halves in 20 years across all strategies. Despite elevated market concentration, the alpha environment remains strong because single-stock volatility is high even as index volatility is contained. This dynamic has driven stock correlations to multi-year lows. The resulting sector rotations beneath the surface have created fertile ground for single-stock pickers."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Okay, what's the trade?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The recommended trade is buying the dip in US AI infrastructure equipment names because valuations have dropped to near two-year lows. However, due to elevated volatility, this is best expressed using limited-loss structures like call spreads in the options market."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "A bull call spread strategy involves buying a call option at a certain strike price and simultaneously selling another call option with the same expiration date but a higher strike price. This structure limits the maximum loss to the net premium paid for the spread, which is crucial in a volatile environment where outright long positions carry significant downside risk. It also caps the maximum potential profit, offering a defined risk/reward profile for participating in a bounce in AI infrastructure names."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "We're going into the biggest week of earnings next week. What are you watching for?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The primary focus is on mega-cap tech hyperscaler earnings, specifically the trajectory of their AI CapEx spend for the rest of this year and into next. There is also keen interest in whether these companies are demonstrating progress in translating that CapEx into incremental revenue and profit growth. Moving past earnings, another key metric to watch is whether stock correlations start to increase, as the recent reduction in AI longs occurred simultaneously with a reduction in macro hedges. This textbook de-grossing leaves the market vulnerable if the currently implied low correlations begin to reverse."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:51:03.565Z",
+  "title": "Are Hedge Funds Still Bullish on AI Stocks?",
+  "date": "24 July 2026",
+  "area": "Sales & Trading"
+ },
+ {
+  "id": "1786009874482-0-spnyo",
+  "url": "https://youtu.be/mlPGrvruhfk?si=yQhJSGnUPPCBl0TU",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "Over the last couple of weeks not much has happened at the index level, but beneath the surface there's been a real rotation and some significant investor P&L destruction. What's going on?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The market exited the second quarter with unprecedented levels of dispersion and implied correlation sitting at multi decade lows. A handful of sectors and stocks have captured the majority of equity returns, heavily concentrated around artificial intelligence beneficiaries. High beta tech and momentum names suffered a 30 percent drawdown recently despite still being up 70 percent to 80 percent year to date. This unique environment reflects a US economy where 70 percent to 80 percent of incremental GDP growth relies solely on AI spending, leaving a few massive winners and a broad base of relative losers."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Where are we do you think in that debate and is this really a AI concentration risk as that debate unfolds?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The market has reached a critical juncture where AI spenders, such as the hyperscalers, are significantly underperforming and facing intense scrutiny over their return on investment. Debt issuance to fund this buildout has been heavy, with around 250 billion dollars in credit issued year to date, causing mild indigestion in the credit complex. Without a tangible return to justify the capital expenditures, spending multiples will compress and create an unsustainable market equilibrium. While bulls argue that scaling models requires continuously higher investments in hardware and power, the immense concentration in these names remains the defining risk for the broader economy."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Do you think memory might be a bit of a canary in the coal mine here as we've seen some of those stocks come under pressure?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Memory stocks currently appear incredibly cheap, but historically, investors must sell commodity equities when multiples look low and buy them when they look expensive to successfully navigate the cyclical troughs. While some argue that long term agreements and guaranteed minimum prices have structurally changed how these companies earn, the inherent cyclical risks remain elevated. If hyperscalers continue to derate due to ROI concerns, the receivers of their capital expenditures will inevitably derate alongside them to restore market equilibrium. Justifying continued investment requires clear returns, and without them, the massive capital outlays for memory will become too large to sustain."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What are you looking for and what are you most focused on as we go into earnings?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The hurdle for second quarter earnings is exceptionally demanding, with expectations baking in 23 percent to 24 percent EPS growth for the US market. Adding to the difficulty, earnings revisions actually increased by 3 percent over the quarter, completely reversing the usual pattern of starting high and fading into the print. The critical risk is whether companies can clear these elevated expectations to provide further upside, or if growth has hit a ceiling. This setup presents a compelling reverse dispersion trade by buying index volatility while selling the implied volatility of single stock names. The rationale is that index volatility is currently sitting at historic lows, whereas implied single stock volatility remains extremely elevated, offering an attractive entry point to fade the extreme concentration."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "What's your view on Europe and what are you looking for for Europe in terms of opportunity for the second half?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "European equities present a highly bifurcated market where certain sectors thrive while others face severe structural headwinds. Financials, particularly banks in Southern Europe, have performed exceptionally well globally because they benefit from a structurally higher rate environment and a spending economy that requires steeper, longer yield curves. Conversely, Europe's industrial, chemical, and auto sectors are deeply threatened by aggressive Chinese exports and massive overcapacity, sending auto names to 52 week lows. Investors must navigate this complex landscape by targeting orthogonal, secular growth pockets like aerospace and defense, or high yielding Greek banks, while avoiding industries exposed to direct global competition."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "As you sit here now, there is still a lot of enthusiasm driven by this earnings story and this unprecedented investment cycle. What are you worried about?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The primary concern centers around the extreme retail concentration in levered exchange traded funds, where assets under management have grown nearly 50 percent year to date. Half of that capital sits entirely in semiconductor and hardware related products, exposing the market to severe vulnerability if the artificial intelligence trade unwinds. Volatility metrics show immense call skew with almost no put skew, indicating that investors are positioned solely for upside without adequate downside protection. The core risk is any disruption to the AI spending narrative, which would immediately derail the market's ability to justify capital expenditure expectations and trigger a chaotic unwind of this leverage."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "ADDITIONAL"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Greek banks have transformed from toxic assets during the sovereign debt crisis into some of the most attractive high yield investments in Europe by 2026. The domestic macroeconomic environment is highly supportive, with Greek GDP growth consistently outpacing the Eurozone average and the national debt to GDP ratio falling steeply. The banking sector boasts robust corporate credit expansion, falling loan loss provisions, and fully normalized asset quality following years of intensive balance sheet repair. This strong earnings generation and excess capital accumulation enable higher shareholder distributions and strategic, targeted acquisitions. Furthermore, Greece's return to investment grade status across major rating agencies has solidified international investor confidence. This comprehensive macroeconomic turnaround explains why Greek bank yields can now trade inside of traditional core nations like France, which has recently struggled with expanding deficits and political instability."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:51:14.482Z",
+  "title": "Will Hyperscalers Justify AI Spend?",
+  "date": "15 July 2026",
+  "area": "Sales & Trading"
+ },
+ {
+  "id": "1786009906299-0-uo26l",
+  "url": "http://www.youtube.com/watch?v=-DbeNiD_Ews",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "What's driven the market performance year to date and how's your macroeconomic outlook changed as a result?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The US economy, corporations, and households have been incredibly resilient in absorbing recent oil shocks. Growth forecasts remain stable, with GDP expectations for 2026 only slightly dipping from 2.3% to 2.2%. The economy's energy intensity has decreased substantially to roughly 22 barrels per capita, compared to 30 during previous energy crises. Additionally, the US has achieved energy independence by becoming a major producer of oil and the largest exporter of liquefied natural gas."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Can you speak a little bit more about the drivers of that resilience and what your outlook is for 2026 with respect to earnings and US equities?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Corporate earnings have surprised to the upside, leading to an increased 2026 earnings growth expectation from 10% to 17%. While many attribute this solely to the top seven tech companies, the remaining 493 S&P 500 stocks are still seeing 10% to 12% growth, well above the historical trend of 6.5%. S&P 500 companies have consistently expanded their margins quarter after quarter. This persistent margin expansion provides crucial sustainability to the broader earnings trajectory."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Given this resilience, have you made any changes to investment portfolios?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The domestic US equity allocation remains unchanged given its continued strong performance. However, outside the US, exposure to emerging markets has been strategically increased, specifically targeting markets outside of China. This shift aims to capture higher earnings growth powered by AI supply chain exposure in countries like Korea and Taiwan."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Some investors are a little bit concerned that this new equity supply into the market might overwhelm market liquidity and some of the momentum that we've seen already this year. How do you view that dynamic?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Investors should not be overly concerned because historical analysis shows IPO activity has no bearing on one-year or five-year forward market returns. Total equity issuance currently amounts to about 1.7% of the Russell 3000 market cap, which perfectly aligns with the historical median of 1.8% going back to 1995. Furthermore, corporate demand through share buybacks is expected to grow by 3% this year to $1.3 trillion. This structural buyback demand will comfortably exceed the expected new IPO issuance."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "How should we view the reduction in share buybacks from large tech hyperscalers as they redirect their cash flow toward AI capital expenditures? [constructed]"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Hyperscalers are projected to use 100% of their operating cash flow on AI-related capex this year, which is predictably reducing their short-term buyback activity. However, this localized slowdown is not expected to significantly alter forward earnings expectations for the broader market. The future trajectory of hyperscaler buybacks depends entirely on the return on investment of these AI expenditures. If the capex proves unprofitable, spending will decrease and free up capacity for more buybacks, whereas profitable investments will justify continuing the current capex levels."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "There's some hesitation amongst investors to invest in the equity market when it's at all-time highs or around all-time highs. How do you address that concern and advise entering the market?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Investors need to separate media noise from the signal that long-term earnings are structurally upward sloping. As the US economy grows, corporations generate higher earnings, and stock prices generally follow that trajectory upward. Clients are advised to start getting invested immediately but to average their entry over multiple periods, such as deploying capital over four quarters. This averaging strategy lowers the average cost basis during pullbacks and removes the anxiety of investing a lump sum at the peak."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Are there any other risks more broadly that you're monitoring?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Geopolitical risks remain a primary focus, particularly the potential for escalation between the US and Iran over control of the Strait of Hormuz. Provided this conflict does not cause oil prices to skyrocket or become heavily kinetic, it should only introduce standard market volatility rather than a structural drawdown. The long-term geopolitical tension between the US and China is another persistent risk. However, both nations currently appear to prefer the status quo over significant escalation due to pressing domestic economic and political pressures."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Any other risks that you can think of with regards to the potential for draw downs?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "A frequent client question is whether to systematically buy put options to protect their equity allocations from drawdowns. This strategy is prohibitively expensive, potentially costing 3% to 7% annually, which eats heavily into the US market's long-term average equity return of nearly 10%. Instead of buying expensive insurance through puts, holding an allocation to investment-grade bonds is viewed as a far better and more cost-effective portfolio hedge."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Is there any key messages you'd like to leave clients as they enter the second half of this year?"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The overarching message is that US economic preeminence remains intact, and the gap in GDP per capita and productivity between the US and the rest of the world continues to widen. Clients are urged to stay invested and ignore alarming headlines, as there is little utility in reacting to short-term noise. Because current market value is already looking beyond 2026, long-term investors should start focusing their strategies on what will drive financial markets in 2027 and beyond."
+    ]
+   }
+  ],
+  "added": "2026-08-06T09:51:46.299Z",
+  "title": "Live Market Insights: Addressing Client Questions on the Mid-Year 2026 Outlook",
+  "date": "31 July 2026",
+  "area": "Asset Management"
  }
 ]
