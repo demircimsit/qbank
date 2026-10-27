@@ -7362,5 +7362,135 @@
   "title": "Japan’s Banks Enter a New Era of Opportunity",
   "date": "07 October 2026",
   "area": "Equity Research"
+ },
+ {
+  "id": "1793111149535-0-x6ddm",
+  "url": "https://www.youtube.com/watch?v=vBmSsk8J8m4",
+  "blocks": [
+   {
+    "q": null,
+    "a": [
+     "Q1. What could the midterm elections mean specifically for AI sentiment? [constructed]"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Midterms influence investor confidence in the pace and durability of AI infrastructure spending through data center opposition and AI regulation channels."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Midterm outcomes are unlikely to fundamentally rewrite the overarching federal rules governing AI technology."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Q2. What is the baseline outlook for AI infrastructure development and data center buildouts? [constructed]"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The baseline case remains a conditional buildout with substantial infrastructure investment subject to power costs, grid investment, siting, permitting, water use, and community impact constraints."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "A broad federal pause on data center development is unexpected because AI compute is viewed in Washington as strategic national security infrastructure relative to China."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Q3. Which regulatory bodies hold primary control over data center project approvals and delays? [constructed]"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Key policy levers that delay projects sit below the federal level, including interconnection approvals, large load electricity tariffs, zoning, water permits, and tax abatements."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Governors, state legislatures, and public utility commissions matter more for AI infrastructure buildouts than control of any single US Senate seat."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Q4. How do different federal election outcomes impact AI infrastructure sentiment? [constructed]"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "A Republican sweep would be most constructive for sentiment due to expectations of fewer regulatory constraints and support for permitting reform, power generation, and federal land development."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "A divided government outcome maintains gridlock while preserving status quo questions on buildout durability and leaving decisions with state and local bodies."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "A Democratic sweep would be least constructive for sentiment by increasing the probability of tighter local restrictions near term and heightened federal scrutiny after 2028."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Q5. What is the expected trajectory for broader AI safety and model regulation? [constructed]"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Regulation is expected to remain incremental and fragmented rather than manifesting as a sweeping new federal regime."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Targeted legislative action on AI safety, data governance, and frontier model oversight requires a high profile safety or security incident to trigger comprehensive congressional action."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Executive agencies remain the primary decision makers regarding tech restrictions and model access."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Q6. What is the primary conclusion for investors regarding the midterms and AI capex? [constructed]"
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "The strategic case for expanding US compute capacity remains intact regardless of the midterm election results."
+    ]
+   },
+   {
+    "q": null,
+    "a": [
+     "Midterms influence friction around the buildout regarding location, approval speed, cost allocation, and investor confidence in AI capex durability."
+    ]
+   }
+  ],
+  "added": "2026-10-27T14:25:49.535Z",
+  "title": "Will Midterms Test the AI Investment Cycle?",
+  "date": "07 October 2026",
+  "area": "Equity Research"
  }
 ]
